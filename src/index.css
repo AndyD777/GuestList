@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .app {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .guest-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 8px 0;
+    cursor: pointer;
+    border-radius: 4px;
+    background: #f9f9f9;
+  }
+  
+  .guest-card:hover {
+    background: #eee;
+  }
+  
+  .guest-details {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 4px;
+  }
